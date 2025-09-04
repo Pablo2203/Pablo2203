@@ -1,3 +1,15 @@
+# Hi there, I'm Pablo 👋
+
+I am a professional transitioning into **backend development with Java**, while also having knowledge of other languages such as JavaScript, HTML, and CSS.  
+
+Currently, I am specializing in **Java and Spring WebFlux** through ITAcademy at Barcelona Activa, where I am:  
+- Developing REST APIs  
+- Working with relational databases (MySQL, H2) and non-relational databases (MongoDB)  
+- Applying programming best practices such as **SOLID principles** and **Clean Code**  
+
+---
+
+## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -14,23 +26,6 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-# Hi there, I'm Pablo 👋
-
-I am a professional transitioning into **backend development with Java**, while also having knowledge of other languages such as JavaScript, HTML, and CSS.  
-
-Currently, I am specializing in **Java and Spring WebFlux** through ITAcademy at Barcelona Activa, where I am:  
-- Developing REST APIs  
-- Working with relational databases (MySQL, H2) and non-relational databases (MongoDB)  
-- Applying programming best practices such as **SOLID principles** and **Clean Code**  
-
----
-
-## 🛠️ Tech Stack
-- **Languages:** Java, JavaScript, HTML, CSS  
-- **Frameworks & Tools:** Spring WebFlux, JUnit, Postman  
-- **Databases:** MySQL, H2, MongoDB  
-- **Version Control:** Git & GitHub  
 
 ---
 
