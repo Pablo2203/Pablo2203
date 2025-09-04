@@ -58,6 +58,13 @@ I am currently seeking my **first professional opportunity as a Junior Backend D
 - [LinkedIn](www.linkedin.com/in/pablogómezsanjoaquín)  
 - [Email](pablo.federico.gomez@gmail.com)
 
-  <div align="center" style="background-color:white; padding:10px;">
-  <img src="./gaucho_mate_retro.gif" alt="gaucho mate" width="200"/>
-</div>
+ ---
+
+<p align="center">
+  <img src="./gaucho_mate_retro_fixed_white.gif" 
+       alt="gaucho mate" 
+       width="150"/>
+  <br><br>
+    <b>Made it with love ❤️ and tons of mate 🧉</b>
+</p>
+
