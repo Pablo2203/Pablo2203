@@ -45,7 +45,7 @@ I am currently seeking my **first professional opportunity as a Junior Backend D
 ---
 
 ## 📌 Featured Projects
-- [ Task-S5.01-WebApplication](https://github.com/Pablo2203/Task-S5.01-WebApplication) – Medical Offices - REST API with Spring WebFlux (CRUD + R2DBC) + React Vite (HTML, CSS, JavaScript)
+- [ Task-S5.01-WebApplication](https://github.com/Pablo2203/Task-S5.01-WebApplication) – Medical Offices - REST API with Spring WebFlux (CRUD + R2DBC) + React Vite
 - [Task-S5.01-Spring_Framework_with_WebFlux](https://github.com/Pablo2203/Task-S5.01-Spring_Framework_with_WebFlux) – Blackjack game - Reactive Spring Boot WebFlux API 
 - [Task-S4.02-Api_Rest_with_Spring_boot](https://github.com/Pablo2203/Task-S4.02-Api_Rest_with_Spring_boot) – REST API with Three Databases: H2, MySQL, and MongoDB 
 
