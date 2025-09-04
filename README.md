@@ -49,7 +49,6 @@ I am currently seeking my **first professional opportunity as a Junior Backend D
 - [Task-S5.01-Spring_Framework_with_WebFlux](https://github.com/Pablo2203/Task-S5.01-Spring_Framework_with_WebFlux) – Blackjack game - Reactive Spring Boot WebFlux API 
 - [Task-S4.02-Api_Rest_with_Spring_boot](https://github.com/Pablo2203/Task-S4.02-Api_Rest_with_Spring_boot) – REST API with Three Databases: H2, MySQL, and MongoDB 
 
-*(You can replace with real repos once you pin them on your profile.)*
 
 ---
 
