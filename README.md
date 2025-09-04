@@ -43,5 +43,5 @@ I am currently seeking my **first professional opportunity as a Junior Backend D
 
 ## 📫 Connect with Me
 - [GitHub](https://github.com/Pablo2203)  
-- [LinkedIn](#)  
-- 📧 Email: your@email.com  
+- [LinkedIn](www.linkedin.com/in/pablogómezsanjoaquín)  
+- 📧 Email: pablo.federico.gomez@gmail.com 
