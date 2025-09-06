@@ -52,12 +52,10 @@ I am currently seeking my **first professional opportunity as a Junior Backend D
 
 ---
 
-## 📫 Connect with Me
-- [GitHub](https://github.com/Pablo2203)  
-- [LinkedIn](www.linkedin.com/in/pablogómezsanjoaquín)  
-- [Email](pablo.federico.gomez@gmail.com)
+## 📫 Connect with Me  
+<p align="left"> <a href="https://github.com/Pablo2203" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://www.linkedin.com/in/pablogómezsanjoaquín" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:pablo.federico.gomez@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </p>
 
- ---
+---
 
 <p align="center">
   <img src="./gaucho_mate_retro_fixed_white.gif" 
