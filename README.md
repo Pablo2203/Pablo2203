@@ -3,7 +3,8 @@
 I’m moving into the tech world as a developer. I specialize in Java on the backend and also have solid handling with JavaScript, HTML, and CSS.
 
 Currently, I am specializing in **Java and Spring WebFlux** through ITAcademy at Barcelona Activa, where I am:  
-- Developing REST APIs  
+- Developing REST APIs
+- Building front-end interfaces with React
 - Working with relational databases (MySQL, H2) and non-relational databases (MongoDB)  
 - Applying programming best practices such as **SOLID principles** and **Clean Code**  
 
