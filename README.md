@@ -1,6 +1,6 @@
 # Hi there, I'm Pablo 👋
 
-I am a professional transitioning into **backend development with Java**, while also having knowledge of other languages such as JavaScript, HTML, and CSS.  
+I’m moving into the tech world as a developer. I specialize in Java on the backend and also have solid handling with JavaScript, HTML, and CSS.
 
 Currently, I am specializing in **Java and Spring WebFlux** through ITAcademy at Barcelona Activa, where I am:  
 - Developing REST APIs  
